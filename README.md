@@ -1,2 +1,3 @@
 # AirPassengers_forecast
-forecasting for AirPassengers dataset
+## Data Mining & Time Series Forecasting
+Forecasting for AirPassengers dataset.
